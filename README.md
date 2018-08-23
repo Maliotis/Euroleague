@@ -1,6 +1,8 @@
 # Euroleague
 Euroleage2 folder contains a simulation of the euroleague.
+
 Bonus folder contains the following contraints:
+
   -Every team must play with each other team exactly 2 times (home and away)
   -Any team cannot play more than 2 games continuously either home or away
   
