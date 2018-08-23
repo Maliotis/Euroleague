@@ -18,27 +18,44 @@ Brose_Bamberg
 A valid match would be:
  
 match 1
+
 Anadolu_Efes - Brose_Bamberg
+
 Armani_Exchange_Olimpia - Baskonia
 
+
 match 2
+
 Baskonia - Anadolu_Efes
+
 Brose_Bamberg - Armani_Exchange_Olimpia
 
+
 match 3
+
 Anadolu_Efes - Armani_Exchange_Olimpia
+
 Baskonia - Brose_Bamberg
 
+
 match 4
+
 Brose_Bamberg - Anadolu_Efes
+
 Baskonia - Armani_Exchange_Olimpia
 
+
 match 5
+
 Anadolu_Efes - Baskonia
+
 Armani_Exchange_Olimpia - Brose_Bamberg
 
+
 match 6
+
 Armani_Exchange_Olimpia - Anadolu_Efes
+
 Brose_Bamberg - Baskonia
 
 
