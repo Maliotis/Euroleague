@@ -13,10 +13,7 @@ We will use only 4 teams for simplicity.
 
 Teams:
 
-Anadolu_Efes
-Armani_Exchange_Olimpia
-Baskonia 
-Brose_Bamberg
+1)Anadolu_Efes. 2)Armani_Exchange_Olimpia. 3)Baskonia. 4)Brose_Bamberg
 
 
 A valid match would be:
